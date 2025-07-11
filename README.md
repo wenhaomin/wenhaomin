@@ -11,8 +11,9 @@ I am a researcher interested in data mining, spatial-temporal data forecasting, 
 [PromptGenius](https://github.com/wenhaomin/ChatGPT-PromptGenius):  Helps you quickly find and share wonderful prompts!   
 [OverleafCopilot](https://chromewebstore.google.com/detail/overleaf-copilot/eoadabdpninlhkkbhngoddfjianhlghb): Let your idea speak.  
 
-## Motto
-`To Learn, To Think, To Build.` 
+## 🎨 Motto
+
+> To Learn, To Think, To Build.
 
 
 <!--
